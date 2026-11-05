@@ -39,7 +39,6 @@ monthly_sales["Month"] = pd.Categorical(
 monthly_sales = monthly_sales.sort_values("Month")
 
 
-# Create Line Chart
 line_chart = px.line(
     monthly_sales,
     x="Month",
