@@ -100,36 +100,6 @@ During this internship, I completed **Level 1 and Level 3**, covering Python fun
 
 ---
 
-## ⚙️ Installation & Execution
-
-### 1. Clone the Repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-### 2. Navigate to the Project Directory
-
-```bash
-cd Cognifyz-Python-Development
-```
-
-### 3. Install Required Libraries
-
-```bash
-pip install requests beautifulsoup4 pandas plotly
-```
-
-### 4. Run the Python Files
-
-Run the individual Python scripts according to their respective tasks.
-
-```bash
-python filename.py
-```
-
----
-
 ## 🎯 Learning Outcomes
 
 Through this internship, I gained practical experience in:
@@ -148,4 +118,3 @@ Through this internship, I gained practical experience in:
 
 I would like to thank **Cognifyz Technologies** for providing me with the opportunity to work on these Python Development tasks and improve my practical programming skills.
 
-**#Cognifyz #CognifyzTech #CognifyzTechnologies #PythonDevelopment #PythonProgramming #Internship**
