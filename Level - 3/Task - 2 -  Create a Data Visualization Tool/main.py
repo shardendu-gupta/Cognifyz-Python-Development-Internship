@@ -38,7 +38,6 @@ monthly_sales["Month"] = pd.Categorical(
 
 monthly_sales = monthly_sales.sort_values("Month")
 
-
 line_chart = px.line(
     monthly_sales,
     x="Month",
@@ -57,7 +56,6 @@ category_sales = data.groupby("Category")["Sales"].sum().reset_index()
 pie_chart = px.pie(category_sales, names="Category", values="Sales", title="Category Wise Sales Distribution")
 pie_chart.show()
 pie_chart.write_html("pie_chart.html")
-
 
 
 print("\nData Visualization Completed Successfully!")
